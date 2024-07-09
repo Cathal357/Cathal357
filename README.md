@@ -19,7 +19,7 @@ Virtualisation and Networking <br>
 HTML, CSS, JavaScript <br>
 C#, PHP, MYSQL, React, Node.js <br>
 Linux, Command Line, Shell Script <br>
-Amazon Web Services, Jenkins, Docker <br>
+Amazon Web Services, Kubernetes, Docker <br>
 
 ![Terminal](https://github.com/Cathal357/Cathal357/assets/85661615/b0462eae-9f55-4347-a934-8e6c85ef20c2)
 
