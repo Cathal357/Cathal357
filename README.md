@@ -17,7 +17,7 @@ Virtualisation and Networking <br>
 
 ## ⚡ Skills ⚡
 HTML, CSS, JavaScript <br>
-C#, PHP, MYSQL, React, Node.js <br>
+C#, PHP, MYSQL, Flutter, Node.js <br>
 Linux, Command Line, Shell Script <br>
 Amazon Web Services, Kubernetes, Docker <br>
 
