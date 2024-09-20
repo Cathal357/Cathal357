@@ -16,10 +16,10 @@ Virtualisation and Networking <br>
 ![CodedCat](https://github.com/Cathal357/Cathal357/assets/85661615/7b7dd2d0-946f-4ceb-aac6-18051ddfa331)
 
 ## ⚡ Skills ⚡
-HTML, CSS, JavaScript <br>
-C#, PHP, MYSQL, Flutter, Node.js <br>
-Linux, Command Line, Shell Script <br>
-Amazon Web Services, Kubernetes, Docker <br>
+HTML, CSS, PHP, JavaScript, <br>
+C#, C++, MYSQL, Flutter, Node.js <br>
+Linux, Command Line, Shell Scripting,  <br>
+Amazon Web Services, Unreal Engine, Kubernetes, Docker <br>
 
 ![Terminal](https://github.com/Cathal357/Cathal357/assets/85661615/b0462eae-9f55-4347-a934-8e6c85ef20c2)
 
