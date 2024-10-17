@@ -17,9 +17,9 @@ Virtualisation and Networking <br>
 
 ## ⚡ Skills ⚡
 HTML, CSS, PHP, JavaScript, MYSQL <br>
-C#, C++, Python, Flutter, Node.js <br>
-Linux, Command Line, Shell Scripting  <br>
-Amazon Web Services, Unreal Engine, Kubernetes, Docker <br>
+C#, C++, Python, Scala, Java, Node.js <br>
+Linux, Command Line, Shell Scripting, Data Structures <br>
+Amazon Web Services, Unreal Engine, Kubernetes, Docker, Flutter <br>
 
 ![Terminal](https://github.com/Cathal357/Cathal357/assets/85661615/b0462eae-9f55-4347-a934-8e6c85ef20c2)
 
