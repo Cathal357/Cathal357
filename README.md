@@ -1,7 +1,6 @@
 <div main align="center"> 
 
 ## 🚀 About Me 🚀 
-When I'm not programming, I am usually gaming with my friends. <br> 
 I have a huge passion for anything computing, whether it be hardware, software, networking or machine learning. <br>
 
 ![Coding](https://github.com/Cathal357/Cathal357/assets/85661615/51663265-1e94-4f24-91d9-f2fe861b47a2)
