@@ -1,7 +1,7 @@
 <div main align="center"> 
 
 ## 🚀 About Me 🚀 
-I have a huge passion for anything computing, whether it be hardware, software, networking or machine learning. <br>
+Graduate Software Developer, with a huge passion for the subject <br>
 
 ![Coding](https://github.com/Cathal357/Cathal357/assets/85661615/51663265-1e94-4f24-91d9-f2fe861b47a2)
 
