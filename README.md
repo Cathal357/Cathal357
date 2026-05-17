@@ -1,24 +1,15 @@
-<div main align="center"> 
+<div main align="left"> 
 
-## 🚀 About Me 🚀 
-Graduate Software Developer, with a huge passion for the subject <br>
-
-![Coding](https://github.com/Cathal357/Cathal357/assets/85661615/51663265-1e94-4f24-91d9-f2fe861b47a2)
-
-## 🎮 Interests 🎮
+##  Interests 
 Gaming and Emulation <br>
 Blockchain Technologies <br>
 Machine Learning and AI <br>
 Virtualisation and Networking <br>
 
-![CodedCat](https://github.com/Cathal357/Cathal357/assets/85661615/7b7dd2d0-946f-4ceb-aac6-18051ddfa331)
-
-## ⚡ Skills ⚡
+##  Skills 
 HTML, CSS, PHP, JavaScript, MYSQL <br>
 C#, C++, Python, Scala, Java, Node.js <br>
 Linux, Command Line, Shell Scripting, Data Structures <br>
 Networking, Amazon Web Services, Unreal Engine, Kubernetes, Docker <br>
-
-![Terminal](https://github.com/Cathal357/Cathal357/assets/85661615/b0462eae-9f55-4347-a934-8e6c85ef20c2)
 
 </div>
